@@ -13,7 +13,8 @@ export function Video({ lessonSlug } : VideoProps) {
     const { data } = useGetLessonBySlugQuery({
         variables: {
             slug: lessonSlug
-        }
+        },
+        fetchPolicy: "no-cache"
     })
 
     if (!data || !data.lesson) {
