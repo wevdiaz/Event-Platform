@@ -72,7 +72,7 @@ const navigate = useNavigate();
 
 
           <img src={imageURL} className="mt-10" alt="tela com código de programação" />
-          <div className="bg-black w-full absolute -bottom-52 px-6">
+          <div className="bg-black w-full absolute -bottom-96 px-6">
             <Footer />
           </div>        
        </div>
