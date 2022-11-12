@@ -19,7 +19,7 @@
 <p align="center">
     <a href="#speech_balloon-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#hammer_and_wrench-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#gear-requesitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#gear-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#scroll-licença">Licença</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
 
@@ -37,7 +37,7 @@ Durante a semana do Ignite Lab 2022, estamos desenvolvendo uma aplicação utili
  * Typescript
  * Vite
 
-### :gear: Requesitos
+### :gear: Requisitos
 
 Para rodar a página
 
